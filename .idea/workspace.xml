@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c1bb59-3ca1-419f-a996-6b8eb1739195" name="Default Changelist" comment="" />
+    <list default="true" id="dd3c9044-a427-441a-a05a-db85a540eb92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MapsApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +15,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="806" />
@@ -21,24 +25,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NayebNazarAyda_GoogleMaps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NayebNazarAyda_GoogleMaps" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,18 +50,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4c1bb59-3ca1-419f-a996-6b8eb1739195" name="Default Changelist" comment="" />
-      <created>1559589094289</created>
+      <changelist id="dd3c9044-a427-441a-a05a-db85a540eb92" name="Default Changelist" comment="" />
+      <created>1559679316364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559589094289</updated>
+      <updated>1559679316364</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <frame x="74" y="23" width="1440" height="806" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980973" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3298611" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
